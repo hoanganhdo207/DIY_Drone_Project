@@ -1,5 +1,6 @@
 # 🚁 Drone Control System
 This project integrates firmware development, sensor fusion, motor control for building, simulating, and controlling a custom quadcopter drone.
+
 ![thumbnail](https://raw.githubusercontent.com/hoanganhdo207/DIY_Drone_Project/main/images/thumbnail.png) 
 ## 📌 Objectives
   - Control 4 brushless motors for a drone using a PID controller
