@@ -45,4 +45,15 @@ To address this limitation , we decided to use 2 Arduino Nano. One microcontroll
 | └── `Receiver   /`   | Receiver data and convert to control signal.                               |
 | `images/`            | Screenshots and images for documentation and README.                       |
 | `.gitignore`         | List of files/folders ignored by Git.                                      |
-| `README.md`          | Project overview (this file).  
+| `README.md`          | Project overview (this file).                                              |
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software in both personal and commercial projects, as long as the original license is included.
+
+## 📬 Contact
+For questions or collaboration:
+  - Name: Đỗ Hoàng Anh
+  - Email: hoanganhdo207@gmail.com
+  - GitHub: [hoanganhdo207](https://github.com/hoanganhdo207)
+
