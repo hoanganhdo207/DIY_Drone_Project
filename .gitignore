@@ -1,1 +1,43 @@
+# Aruino IDE files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.srec
+*.lst
+*.obj
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Altium generated folders
+Project Outputs for*/
+History/
+__Previews/
+
+# Backup and temp files
+*.~pcbdoc
+*.~schdoc
+*.ddb
+*.bak
+*.tmp
+
+# Output files
+*.OutJob
+*.pdf
+*.step
+*.stp
+*.gerber
+*.gbr
+*.nc
+*.pos
+*.csv
+*.txt
+*.bom
+
+
 
