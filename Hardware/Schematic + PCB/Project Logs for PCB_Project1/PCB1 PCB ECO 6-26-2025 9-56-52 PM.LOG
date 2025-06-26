@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Sheet1 Member=P3
+Removed Member From Class: ClassName=Sheet1 Member=P5
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Net Name : Old Net Name=NetP2_3 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetP2_4 New Net Name=NetP1_4
+Change Net Name : Old Net Name=NetP4_3 New Net Name=NetP3_3
+Change Net Name : Old Net Name=NetP4_4 New Net Name=NetP3_4

@@ -1,0 +1,32 @@
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X7)
+Added Component: Designator=P3(HDR1X4)
+Added Pin To Net: NetName=+5 Pin=P1-2
+Added Pin To Net: NetName=+5 Pin=P3-2
+Added Net: Name=+5
+Added Pin To Net: NetName=3V3 Pin=P2-6
+Added Net: Name=3V3
+Added Pin To Net: NetName=CE Pin=P2-5
+Added Net: Name=CE
+Added Pin To Net: NetName=CSN Pin=P2-4
+Added Net: Name=CSN
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=P2-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P2-2
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=SCK Pin=P2-3
+Added Net: Name=SCK
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
