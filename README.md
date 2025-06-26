@@ -9,6 +9,9 @@ This project integrates firmware development, sensor fusion, motor control for b
 
 ## 🧠 System Design
 In this DIY project , we are building a wireless flight controller for a quadcopter using the NRF24L01 module.
+
+![thumbnail](https://raw.githubusercontent.com/hoanganhdo207/DIY_Drone_Project/main/images/images.png) 
+
 ![]()  
 Initially , out goal was to use a single Arduino Nano to handle everything(wireless communication , sensor reading , and motor control using a PID algorithm.
 
